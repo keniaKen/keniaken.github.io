@@ -1,3 +1,10 @@
-# Jekyll Configuration for Theme Support
+minimal_mistakes:
+  # Colorful Portfolio Configuration
+  # Choose your preferred theme skin
+  skins:
+    - 'default'
+    - 'colorful'
+    - 'dark'
 
-theme: minima
+  # Enable multiple skins for your portfolio
+  enable_multiple_skins: true
